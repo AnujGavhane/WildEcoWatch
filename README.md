@@ -74,10 +74,10 @@ PIR Sensor
      ▼
  Animal Classification
      │
- ┌───┴────────────┐
- ▼                ▼
-Alerts        Event Storage
-(Email/SMS)   (Logs & Images)
+ ┌───┴────────────┐────────────────────┐
+ ▼                ▼                    ▼
+Alerts        Event Storage     Repellent System
+(Email/SMS)   (Logs & Images)     (Sound/Light)
 ```
 
 ---
