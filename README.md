@@ -42,7 +42,7 @@ WildEcoWatch addresses these challenges through automated detection, monitoring,
 
 * Email notifications
 * SMS alert support
-* Voice/Text-to-Speech announcements
+* LED and Buzzer activation
 
 ### Conservation Support
 
